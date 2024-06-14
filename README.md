@@ -9,3 +9,6 @@ Personal Website : https://chsh413014.github.io/han79/
 Location : 新北市
 
 E-Mail : pcjh150029@gmail.com
+
+[個人小研究](https://github.com/chsh413014/han79/blob/main/Research.md)
+
