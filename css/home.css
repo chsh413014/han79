@@ -35,25 +35,31 @@
 }
 
 .color-1 {
-    color: #f306a0
+    color: #f306a0;
+    font-size: 3em;
 }
 
 .color-2 {
-    color: #d60bfb
+    color: #d60bfb;
+    font-size: 3em;
 }
 
 .color-3 {
-    color: #d8be10
+    color: #d8be10;
+    font-size: 3em;
 }
 
 .color-4 {
-    color: #0fd28a
+    color: #0fd28a;
+    font-size: 3em;
 }
 
 .color-5 {
-    color: #f97400
+    color: #f97400;
+    font-size: 3em
 }
 
 .color-6 {
-    color: #08a6f3
+    color: #08a6f3;
+    font-size: 3em;
 }
